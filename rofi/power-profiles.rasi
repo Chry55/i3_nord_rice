@@ -1,0 +1,23 @@
+configuration {
+    font:                           "Cantarell 11";
+    scroll-method:                  0;
+    disable-history:                false;
+    fullscreen:                     false;
+	hide-scrollbar: 				true;
+	sidebar-mode: 					false;
+}
+
+@theme "Arc-Dark"
+
+window { 
+    border:                         1;
+    width:                          170px;
+    location:                       south east;
+    y-offset:                       -25;
+    x-offset:	                    -200;
+}
+listview {
+    lines:                           3;
+    columns:                        1;
+    scrollbar:                     false;
+}
