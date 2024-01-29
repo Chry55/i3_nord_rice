@@ -4,7 +4,7 @@ A minimal i3 rice inspired by arc theme
 ![Screenshot](screenshot.png)
 
 * Prompt: Startship
-* WM: i3
+* WM: i3-gaps
 * Launcher: rofi
 * Terminal: alacritty
 * File manager: nemo
